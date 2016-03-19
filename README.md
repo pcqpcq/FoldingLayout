@@ -1,6 +1,6 @@
 FoldingLayout
 =============
 
-Fork form DevBytes: http://www.youtube.com/watch?v=vabSSFCSkSg
+What it looks like:
 
 ![preview](https://raw.githubusercontent.com/pcqpcq/FoldingLayout/master/screenshot/preview.gif "preview")
