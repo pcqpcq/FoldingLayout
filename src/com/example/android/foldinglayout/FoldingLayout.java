@@ -67,7 +67,7 @@ public class FoldingLayout extends ViewGroup {
 
     private Rect[] mFoldRectArray;
 
-    private Matrix [] mMatrix;
+    private Matrix[] mMatrix;
 
     private Orientation mOrientation = Orientation.HORIZONTAL;
 
@@ -94,8 +94,8 @@ public class FoldingLayout extends ViewGroup {
     private LinearGradient mShadowLinearGradient;
     private Matrix mShadowGradientMatrix;
 
-    private float [] mSrc;
-    private float [] mDst;
+    private float[] mSrc;
+    private float[] mDst;
 
     private OnFoldListener mFoldListener;
 
